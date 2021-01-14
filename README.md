@@ -10,28 +10,28 @@ The project focuses on Medical MNIST analysis. Models for image classification a
 * [t-SNE visualisations](notebooks/t-SNE-visualisations.ipynb) - mosaics, scatter plots and visualisations using RasterFairy
 
 ## Examples from each notebook
-### Primary notebook
+### [Primary notebook](notebooks/Medical-MNIST.ipynb)
 
 Average image of each class:
 
 ![average image of each class](https://deepdrive.pl/wp-content/uploads/2021/01/usredniony-obraz-dla-kazdej-z-klas.png)
 
 
-### Results
+### [Results](notebooks/Medical-MNIST-results.ipynb)
 
 ROC and PR curves for best model - different image sizes:
 
 ![pr and roc curves for best model - different image sizes](https://deepdrive.pl/wp-content/uploads/2020/12/najlepszy-model-rozne-rozmiary-1024x392.png)
 
 
-### Occlusion sensitivity
+### [Occlusion sensitivity](notebooks/Occlusion-sensitivity.ipynb)
 
 Best model occlusion sensitivity for each class example:
 
 ![best model occlusion sensitivity for each class example](https://deepdrive.pl/wp-content/uploads/2020/12/best-model-occlusion-sensitivity-1024x554.png)
 
 
-### t-SNE visualisations
+### [t-SNE visualisations](notebooks/t-SNE-visualisations.ipynb)
 
 colored t-SNE mosaic with images:
 
