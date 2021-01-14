@@ -21,7 +21,7 @@ Average image of each class:
 
 ROC and PR curves for best model - different image sizes:
 
-![pr and roc curves for best model - different image sizes](https://deepdrive.pl/wp-content/uploads/2020/12/najlepszy-model-32-px-1024x392.png)
+![pr and roc curves for best model - different image sizes](https://deepdrive.pl/wp-content/uploads/2020/12/najlepszy-model-rozne-rozmiary-1024x392.png)
 
 
 ### Occlusion sensitivity
@@ -33,6 +33,6 @@ Best model occlusion sensitivity for each class example:
 
 ### t-SNE visualisations
 
-t-SNE colored mosaic with images:
+colored t-SNE mosaic with images:
 
 ![tsne colorful mosaic](/images/tsne-images-mosaic-in-color.jpg)
